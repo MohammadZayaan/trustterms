@@ -8,6 +8,12 @@ https://trustterms-psi.vercel.app/
 
 ---
 
+## Preview
+
+![TrustTerms Screenshot](public/screenshot.png)
+
+---
+
 ## Features
 
 - Analyze pasted privacy policy text
